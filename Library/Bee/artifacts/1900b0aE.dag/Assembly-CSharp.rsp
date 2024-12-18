@@ -358,6 +358,15 @@
 "Assets/First-Person Controller/InputSystem/StarterAssetsInputs.cs"
 "Assets/First-Person Controller/Scripts/BasicRigidBodyPush.cs"
 "Assets/First-Person Controller/Scripts/FirstPersonController.cs"
+"Assets/iLearn Environment Kit/Water/Water_FlatColoured/Scripts/WaterBasic.cs"
+"Assets/iLearn Environment Kit/Water/Water_FlatTransparent/Scripts/Displace.cs"
+"Assets/iLearn Environment Kit/Water/Water_FlatTransparent/Scripts/GerstnerDisplace.cs"
+"Assets/iLearn Environment Kit/Water/Water_FlatTransparent/Scripts/MeshContainer.cs"
+"Assets/iLearn Environment Kit/Water/Water_FlatTransparent/Scripts/PlanarReflection.cs"
+"Assets/iLearn Environment Kit/Water/Water_FlatTransparent/Scripts/SpecularLighting.cs"
+"Assets/iLearn Environment Kit/Water/Water_FlatTransparent/Scripts/Water.cs"
+"Assets/iLearn Environment Kit/Water/Water_FlatTransparent/Scripts/WaterBase.cs"
+"Assets/iLearn Environment Kit/Water/Water_FlatTransparent/Scripts/WaterTile.cs"
 -langversion:9.0
 
 /deterministic
